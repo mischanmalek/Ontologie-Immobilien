@@ -13,4 +13,12 @@ Die Datei ontology_final.json enthält alle Konzepte der Ontologie
 Die Datei ontology.html enthält graphische Visualisierung
 
 
+
+
+
+
+
+
+
+
 ... weitere Inhalte folgen.
