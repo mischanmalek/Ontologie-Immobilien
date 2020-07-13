@@ -10,7 +10,9 @@ Die Datei ontology_final.json enthält alle Konzepte der Ontologie
 
 
 ## Visualisierung
-Die Datei ontology.html enthält graphische Visualisierung
+Die Datei ontology.html enthält die graphische Visualisierung
+
+sie ist unter http://mischan.com/Ontologie-Immobilien online aufrufbar.
 
 
 
