@@ -3,16 +3,16 @@
 
 
 ## Abstract
-Mit dem Aufkommen großer, leicht zugänglicher Datenmengen wächst auch der Bedarf, diese in maschinell lesbare Strukturen zu überführen. Da sich Ontologien besonders gut für die semantische Strukturierung dieser Datenmengen eignen, finden sie zunehmend Anwendung in den Gebieten der Computerlinguistik, des maschinellen Lernens und der Künstlichen-Intelligenz-Forschung. Kaum ein Bereich nimmt wirtschaftlich und gesellschaftlich so viel Raum ein, wie jener der Immobilie. Aus dieser Motivation heraus befasst sich die vorliegende Arbeit mit den Grundlagen, dem Erstellungsprozess und der Nutzbarkeit einer Ontologie in der Domäne Immobilien, mit besonderem Augenmerk auf die visuelle Repräsentation der Ergebnisse. Neben dem Erläutern von auftretenden Problemen der Kategorisierung von Knoten innerhalb der Ontologiestruktur, wird auch auf automatische Extraktionsverfahren in der NER eingegangen. Ziel dieser Arbeit ist es, die untersuchte Domäne Immobilien in ihrer Struktur möglichst genau abzubilden. Im Fokus steht dabei die Erstellung passender Korpora, aus denen mittels computerlinguistischer Verfahren Konzepte extrahiert und anschließend als Knoten in einem Netzwerk realisiert werden. Mit 4.063 maschinell auswertbaren Begriffen aus 263 Konzepten bildet die in dieser Arbeit erstellte Ontologie die Domäne Immobilien in ihrer semantischen Struktur manuell verifiziert ab. Um die Ontologie anwendungsorientiert repräsentieren zu können, wird eine visuelle, mittels NetworkX als gerichteter azyklischer Graph (DAG) realisierte Netzwerkstruktur erzeugt, welche anschließend mit Pyvis visualisiert wird.
+With the emergence of large, easily accessible amounts of data, the need to convert these into machine-readable structures is also growing. As ontologies are particularly well suited to the semantic structuring of these data volumes, they are increasingly being used in the fields of computational linguistics, machine learning and artificial intelligence research. Hardly any other area occupies as much economic and social space as that of real estate. Based on this motivation, this thesis deals with the basics, the creation process and the usability of an ontology in the real estate domain, with a special focus on the visual representation of the results. In addition to explaining the problems that arise when categorizing nodes within the ontology structure, automatic extraction procedures in the NER are also discussed. The aim of this work is to map the structure of the real estate domain under investigation as accurately as possible. The focus is on the creation of suitable corpora from which concepts are extracted using computer linguistic methods and then realized as nodes in a network. With 4,063 machine-readable terms from 263 concepts, the ontology created in this thesis represents the real estate domain in its semantic structure with manual verification. In order to be able to represent the ontology in an application-oriented manner, a visual network structure is created using NetworkX as a directed acyclic graph (DAG), which is then visualized using Pyvis.
 
 ## Ontologie
-Die Datei ontology_final.json enthält alle Konzepte der Ontologie
+The ontology_final.json file contains all the concepts of the ontology.
 
 
 ## Visualisierung
-Die Datei ontology.html enthält die graphische Visualisierung
+The file ontology.html contains the graphic visualization
 
-sie ist unter http://mischan.com/Ontologie-Immobilien online aufrufbar.
+It can be accessed via http://mischan.com/Ontologie-Immobilien.
 
 
 
