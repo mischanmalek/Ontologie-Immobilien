@@ -10,5 +10,5 @@ pyvis==0.1.8.0
 regex==2020.5.13
 requests==2.23.0
 scipy==1.4.1
-Scrapy==2.1.0
+Scrapy==2.11.1
 spacy==2.2.4
