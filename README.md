@@ -13,14 +13,3 @@ The ontology_final.json file contains all the concepts of the ontology.
 The file ontology.html contains the graphic visualization
 
 It can be accessed via http://mischan.com/Ontologie-Immobilien.
-
-
-
-
-
-
-
-
-
-
-... weitere Inhalte folgen.
