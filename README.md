@@ -16,5 +16,5 @@ It can be accessed via http://mischan.com/Ontologie-Immobilien.
 
 
 ## Thesis
-If you like to view the whole thesis, please contact me
+If you like to view the whole thesis, please contact me<br />
 m a i l (at) f i r s t n a m e (dot) com
